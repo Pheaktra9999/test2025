@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Clickable GIF linking to your website -->
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://pheaktra9999.github.io/test2025/Hello.html" target="_blank">
     <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="profile gif"/>
   </a>
 </div>
@@ -9,12 +9,12 @@
 
 <div align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <a href="https://www.linkedin.com/in/sopheaktra-kim-40740b378/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
   <!-- YouTube -->
-  <a href="https://www.youtube.com/c/yourchannel" target="_blank">
+  <a href="https://www.youtube.com/@MrSopheaktraKim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
 
@@ -24,7 +24,7 @@
   </a>
 
   <!-- Email -->
-  <a href="mailto:yourname@email.com">
+  <a href="mailto:sopheaktrakim.cambo99@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
